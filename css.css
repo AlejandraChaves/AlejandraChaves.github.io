@@ -1,0 +1,20 @@
+
+nav {
+    position: sticky;
+    top: 0;
+    background-color: aquamarine;
+}
+#1 > h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+footer {
+    display: flex;
+    background: linear-gradient(rgb(241, 177, 253), aquamarine);
+}
+footer > p{
+    align-content: center;
+}
+.box{
+    display: flex;
+    justify-content: space-between;
+}
